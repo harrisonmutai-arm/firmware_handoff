@@ -22,11 +22,15 @@ Building the document
 
 The following are use to generate the specification:
 
- - pdf:
-    make latexpdf
+- pdf:
 
- - html:
-    make html
+    .. code::
+        make latexpdf
+
+- html:
+
+    .. code::
+        make html
 
 Status
 ======
