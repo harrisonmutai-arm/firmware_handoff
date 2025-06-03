@@ -24,9 +24,9 @@ copyright = "2022-2025, Firmware handoff contributors"
 author = "Firmware handoff contributors"
 
 # The short X.Y version
-version = ""
+version = "1.0"
 # The full version, including alpha/beta/rc tags
-release = "0.9"
+release = "1.0"
 
 
 # -- General configuration ---------------------------------------------------
@@ -69,6 +69,7 @@ exclude_patterns = []
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = None
 
+linkcheck_ignore = [r'https://uefi\.org/specs/.*',]
 
 # -- Options for HTML output -------------------------------------------------
 
