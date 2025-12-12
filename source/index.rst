@@ -12,5 +12,6 @@ Firmware handoff specification
    introduction.rst
    transfer_list.rst
    register_conventions.rst
+   standard_operations_appendix.rst
    references
    glossary
